@@ -6,7 +6,9 @@
 
 - 📫 How to reach me **sasindujanith77@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janith-sasindu-45535637b)
+  
 <p align="left">
 </p>
 
