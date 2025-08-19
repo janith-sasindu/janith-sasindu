@@ -2,9 +2,11 @@
 <h3 align="center">A Full-stack developer from Sri Lanka</h3>
 
 ---
+ ### About Me 
 - 🌱 I’m currently learning **Software Engineering at Sabaragamuwa university of Sri Lanka**
-
-- 📫 How to reach me **sasindujanith77@gmail.com**
+- 💻 Currently learning **Java, Python, and Web Development**
+- 📚 Interested in **Machine learning and Web Development** 
+- 📫 How to reach me: **sasindujanith77@gmail.com**
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janith-sasindu-45535637b)
